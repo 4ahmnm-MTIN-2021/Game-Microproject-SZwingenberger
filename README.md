@@ -7,10 +7,7 @@ Minigame with Button Press, Name Input and one simple calculation
 Windows 10, Unity 2020.1.5f1, Visual Studio
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
-
-### Visuals: 
-
+WebGL, Mobile, VR Device incl. reference resolution  
 
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions that I can run the project after cloning it
@@ -24,5 +21,6 @@ Installation process, e.g. step by step instructions that I can run the project 
 ### Limitations: 
 
 ### Lessons Learned: 
+Adding Namefields 
 
 Copyright by Stefanie Zwingenberger
