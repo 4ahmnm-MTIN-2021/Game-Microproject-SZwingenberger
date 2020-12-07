@@ -7,6 +7,7 @@ public class SimpleAddNumbers : MonoBehaviour
 { // AM    Variablen typ Variablen Name
     public InputField input1;
     public InputField input2;
+    // Am  Datentyp Variablenname
     public int result;
     public Button resultButton;
     // Am  return type Methodenname leere Parameterliste
